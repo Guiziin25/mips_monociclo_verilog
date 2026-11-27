@@ -1,0 +1,4 @@
+sim/mips.vvp
+*.vcd
+__pycache__/
+*.pyc
